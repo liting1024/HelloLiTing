@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">HelloLiTing</string>
+    <string name="app_name">Hello 李挺</string>
+    <string name="hello_name">Hello 李挺!</string>
+    <string name="add_item">Add</string>
+    <string name="remove_item">Remove</string>
+    <string name="button_2">Button2</string>
+    <string name="button_url">点击跳转</string>
 </resources>
